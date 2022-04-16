@@ -1,0 +1,16 @@
+.fifth__content {
+    margin-top: 30px;
+}
+.content__otziv {
+    display: flex;
+    justify-content: center;
+}
+.otziv__odin img{
+    margin-top: 30px;
+    width: 600px;
+}
+.content__bukvi {
+    display: flex;
+    font-size: 56px;
+    justify-content: center;
+}

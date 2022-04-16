@@ -1,0 +1,43 @@
+.fourth__content {
+    margin-top: 50px;
+    display: flex;
+}
+.pictures__pic img{
+    width: 300px;
+}
+.fourth__pictures {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+}
+.fourth__slova {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.slova__title {
+    color: #545BE8;
+    font-weight: 300;
+}
+.slova__subtitle {
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 78px;
+    color: #323232;
+}
+.slova__text {
+    margin-top: 30px;
+    color: #c1c1c1;
+}
+.slova__knopka {
+    margin-top: 30px;
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 11px 0;
+    background: #545BE8;
+    border-radius: 4px;
+    width: 240px;
+}
